@@ -15,7 +15,7 @@
 <code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683778-91b7d0c7-ecf5-4f38-9e1e-52678e14512f.png" /></code>
 <code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683735-cf63ca20-e337-47c5-afba-cc55db9a4d22.png" /></code>
 <code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683854-98cdb97b-1677-4319-b0b7-3977b2b22c36.png" /></code>
-<img align="right" src="https://user-images.githubusercontent.com/67463412/129671456-61ef0d33-44b3-472d-916b-8dbad6b628a0.gif" width="350" height="250" /> 
+ 
 
 #### My github stats
 <img width="450" src="https://github-readme-stats.vercel.app/api?username=Zeroryo&show_icons=true&theme=tokyonight" />
