@@ -17,7 +17,7 @@
 <code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683263-3a59278c-7ed0-4aa0-904c-698634df26a4.png" /></code>
 <code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683635-226e9808-f7bd-441c-9479-553c0d2f0ba0.png" /></code>
 <code><img width="20" src="https://user-images.githubusercontent.com/67463412/129683854-98cdb97b-1677-4319-b0b7-3977b2b22c36.png" /></code>
-<code> <img height="50" src="https://banner2.cleanpng.com/20180720/cax/kisspng-laravel-software-framework-php-web-application-redes-sociais-5b523130965485.0186996815321132006158.jpg"> </code>
+<code> <img height="50" src="https://2.bp.blogspot.com/-bGTsFydT5d8/WM-Gs0K0FTI/AAAAAAAAFpM/AGJ-DWijk785bQjk9FF99PpcySIrtWHIgCPcB/s1600/laravel_logo.png"> </code>
 <code><a href="https://www.php.net/">
     <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>
   </a></code>
