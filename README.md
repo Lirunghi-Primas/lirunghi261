@@ -4,7 +4,7 @@
 <h3 align="center">📘 Currently studying on TDTU</h3>
 <h3 align="center">💻 Working on ... Technology & Photographer </h3>
 <h3 align="center">✍️ Making some projects using  PHP, JavaScript, C#,...</h3>
-<h3 align="center">:open_file_folder: Laravel </h3>
+<h3 align="center">:open_file_folder: Laravel, ASP.Net,... </h3>
 
 #### Languages and Frameworks I know and Study
 
