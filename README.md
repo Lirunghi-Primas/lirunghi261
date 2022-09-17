@@ -6,7 +6,7 @@
 <h3 align="center">✍️ Making some projects using  PHP, JavaScript, C#,...</h3>
 <h3 align="center">:open_file_folder: Laravel, ASP.Net,... </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Lirunghi!;I'm+a+learning+developer...;I'm+a+CRAZY+volleyball+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+
 
 
 
